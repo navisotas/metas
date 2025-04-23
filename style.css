@@ -4,14 +4,14 @@
     --cor-de-fundo: #1E1E1E;
     --verde: #f70000;
     --branco: #FFFFFF;
-    --botao-ativo: #5900ff;
+    --botao-ativo: #0d0274;
     --botao-inativo: rgba(58, 55, 94, 0.5);
     --texto-fundo: rgba(98, 0, 255, 0.3);
 }
 
 body {
     background-image: url(ttk.jpg);
-    color: var(--branco);
+    color: var(--branco);d
     font-family: 'Chakra Petch', sans-serif;
 }
 
